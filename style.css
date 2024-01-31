@@ -92,7 +92,7 @@ clip-path:circle(600px at right 800px);
 
 }
 
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1000px){
 
     .tudo 
 
@@ -123,7 +123,7 @@ clip-path:circle(600px at right 800px);
 
      .logo {
         
-        margin: 62px 69px 37px 343px;
+        margin: 62px 69px 37px 350px;
         width: 100px;
         height: 100px;
         display: flex;
